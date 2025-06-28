@@ -196,3 +196,7 @@ LibreTV 仅作为视频搜索工具，不存储、上传或分发任何视频内
 如果您想支持本项目，可以考虑进行捐款：
 
 [![捐赠](https://img.shields.io/badge/爱心捐赠-无国界医生-1a85ff?style=for-the-badge&logo=medical-cross)](https://www.msf.hk/zh-hant/donate/general?type=one-off)
+
+感谢以下赞助商支持 XUGOU 的开发：
+
+[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
